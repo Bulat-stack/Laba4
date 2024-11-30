@@ -5,4 +5,4 @@
 
 Для запуска программы необходимо установить MS-MPI. Это можно сделать на официальном сайте Microsoft https://learn.microsoft.com/en-us/message-passing-interface/microsoft-mpi#ms-mpi-source-code
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/940ce139-2c12-48aa-a556-4155d245aa90)
